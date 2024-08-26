@@ -472,7 +472,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 8159,Desmond Ridder,,,4239086,Desmond Ridder,19434,Desmond Ridder,2864759,Desmond Ridder,18188,Desmond Ridder,2567256,Desmond Ridder,20080,Desmond Ridder,Desmond Ridder
 8162,Sam Howell,,,4426875,Sam Howell,19449,Sam Howell,3123797,Sam Howell,18104,Sam Howell,2568333,Sam Howell,23045,Sam Howell,Sam Howell
 8171,Kyle Philips,,,4367175,Kyle Philips,19749,Kyle Philips,,,18178,Kyle Philips,2567664,Kyle Philips,23896,Kyle Philips,Kyle Philips
-3286,Demarcus Robinson,29360,Demarcus Robinson,3043116,Demarcus Robinson,14714,Demarcus Robinson,2061095,Demarcus Robinson,15694,Demarcus Robinson,,,15665,Demarcus Robinson,Demarcus Robinson
+3286,Demarcus Robinson,29360,Demarcus Robinson,3043116,Demarcus Robinson,14714,Demarcus Robinson,2061095,Demarcus Robinson,15694,Demarcus Robinson,2555478,Demarcus Robinson,15665,Demarcus Robinson,Demarcus Robinson
 6984,Tony Jones,,,4046676,Tony Jones Jr.,,,,,,,2564679,Tony Jones,19482,Tony Jones Jr.,Tony Jones
 6885,Ke'Shawn Vaughn,,,3917612,Ke'Shawn Vaughn,17974,Ke'Shawn Vaughn,2179704,Ke'Shawn Vaughn,17234,Ke'Shawn Vaughn,2565258,Ke'Shawn Vaughn,19351,Ke'Shawn Vaughn,Ke'Shawn Vaughn
 8123,Hassan Haskins,,,4372071,Hassan Haskins,19483,Hassan Haskins,2968506,Hassan Haskins,18093,Hassan Haskins,2567649,Hassan Haskins,23798,Hassan Haskins,Hassan Haskins
@@ -515,7 +515,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 5323,Equanimeous St. Brown,,,3932442,Equanimeous St. Brown,16136,Equanimeous St. Brown,,,16178,Equanimeous St. Brown,2560883,Equanimeous St. Brown,17307,Equanimeous St. Brown,Equanimeous St. Brown
 10983,Sean Clifford,,,4259592,Sean Clifford,,,2868998,Sean Clifford,18497,Sean Clifford,2569762,Sean Clifford,,,Sean Clifford
 5695,Brandon Powell,,,3115255,Brandon Powell,,,,,,,2561261,Brandon Powell,,,Brandon Powell
-9493,Puka Nacua,40168,Puka Nacua,4426515,Puka Nacua,20336,Puka Nacua,3121687,Puka Nacua,18605,Puka Nacua,2570026,Puka Nacua,23180,Puka Nacua,
+9493,Puka Nacua,40168,Puka Nacua,4426515,Puka Nacua,20336,Puka Nacua,3121687,Puka Nacua,18605,Puka Nacua,2570026,Puka Nacua,23180,Puka Nacua,Puka Nacua
 7612,Dee Eskridge,,,4043016,Dee Eskridge,,,,,17560,Dee Eskridge,2566553,D'Wayne Eskridge,22785,Dee Eskridge,
 3976,Mitchell Trubisky,,,3039707,Mitchell Trubisky,15223,Mitchell Trubisky,2060476,Mitch Trubisky,16022,Mitchell Trubisky,2558008,Mitchell Trubisky,,,Mitchell Trubisky
 5113,Cedrick Wilson,31178,Cedrick Wilson Jr.,4036335,Cedrick Wilson Jr.,,,2240685,Cedrick Wilson Jr.,16131,Cedrick Wilson,2560936,Ced Wilson,17262,Cedrick Wilson Jr.,Cedrick Wilson
@@ -574,7 +574,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 2306,Jameis Winston,,,2969939,Jameis Winston,13529,Jameis Winston,1998197,Jameis Winston,15353,Jameis Winston,2552033,Jameis Winston,13891,Jameis Winston,Jameis Winston
 6395,Trinity Benson,,,4422214,Trinity Benson,,,,,,,2563035,Trinity Benson,,,Trinity Benson
 1338,Matt Barkley,,,15948,Matt Barkley,,,,,13022,Matt Barkley,2539308,Matt Barkley,,,Matt Barkley
-,,,,3914397,Scotty Miller,,,,,16822,Scotty Miller,2562865,Scott Miller,,,
+,,,,3914397,Scotty Miller,,,,,16822,Scotty Miller,2562865,Scott Miller,,,Scott Miller
 7537,Jaret Patterson,,,4362452,Jaret Patterson,,,,,,,2567160,Jaret Patterson,,,Jaret Patterson
 9512,DeWayne McBride,,,4430388,DeWayne McBride,20313,DeWayne McBride,,,18587,DeWayne McBride,2570077,DeWayne McBride,25265,DeWayne McBride,DeWayne McBride
 6918,Salvon Ahmed,33265,Salvon Ahmed,4243315,Salvon Ahmed,,,,,,,2565090,Salvon Ahmed,19449,Salvon Ahmed,Salvon Ahmed
@@ -1010,80 +1010,80 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 11199,Emari Demercado,40430,Emari Demercado,4362478,Emari Demercado,,,2964372,Emari Demercado,,,,,25654,Emari Demercado,
 11256,Tyson Bagent,,,4434153,Tyson Bagent,20814,Tyson Bagent,29081346,Tyson Bagent,18718,Tyson Bagent,,,,,
 11292,Tommy DeVito,,,,,,,,,,,,,,,
-11306,Xavier Gipson,,,,,,,,,18747,Xavier Gipson,,,25758,Xavier Gipson,
+11306,Xavier Gipson,,,4427278,Xavier Gipson,20866,Xavier Gipson,,,18747,Xavier Gipson,,,25758,Xavier Gipson,Xavier Gipson
 11311,Jason Brownlee,,,,,,,,,,,,,,,
 11435,Emanuel Wilson,,,,,,,,,,,,,,,
-11439,Jaleel McLaughlin,40696,Jaleel McLaughlin,4722893,Jaleel McLaughlin,21005,Jaleel McLaughlin,26725939,Jaleel McLaughlin,18717,Jaleel McLaughlin,,,25876,Jaleel McLaughlin,
+11439,Jaleel McLaughlin,40696,Jaleel McLaughlin,4722893,Jaleel McLaughlin,21005,Jaleel McLaughlin,26725939,Jaleel McLaughlin,18717,Jaleel McLaughlin,2570942,Jaleel McLaughlin,25876,Jaleel McLaughlin,Jaleel McLaughlin
 11556,Devin Leary,,,,,,,,,,,,,,,
 11557,Joe Milton,,,,,,,,,,,,,,,
 11558,Sam Hartman,,,,,,,,,,,,,,,
-11559,Michael Penix,,,4360423,Michael Penix Jr.,20298,Michael Penix,2963496,Michael Penix Jr.,19080,Michael Penix Jr.,,,22973,Michael Penix Jr.,
-11560,Caleb Williams,40900,Caleb Williams,4431611,Caleb Williams,21124,Caleb Williams,26695775,Caleb Williams,19147,Caleb Williams,,,23084,Caleb Williams,
+11559,Michael Penix,,,4360423,Michael Penix Jr.,20298,Michael Penix,2963496,Michael Penix Jr.,19080,Michael Penix Jr.,,,22973,Michael Penix Jr.,Michael Penix Jr.
+11560,Caleb Williams,40900,Caleb Williams,4431611,Caleb Williams,21124,Caleb Williams,26695775,Caleb Williams,19147,Caleb Williams,2571913,Caleb Williams,23084,Caleb Williams,Caleb Williams
 11561,Michael Pratt,,,,,,,3163083,Michael Pratt,,,,,,,
 11562,Spencer Rattler,,,,,,,,,,,,,,,
-11563,Bo Nix,40875,Bo Nix,4426338,Bo Nix,20299,Bo Nix,3121193,Bo Nix,19071,Bo Nix,,,22910,Bo Nix,
-11564,Drake Maye,40881,Drake Maye,4431452,Drake Maye,21125,Drake Maye,26695757,Drake Maye,19046,Drake Maye,,,23046,Drake Maye,
-11565,J.J. McCarthy,40905,J.J. McCarthy,4433970,J.J. McCarthy,21150,J.J. McCarthy,26695214,J.J. McCarthy,19048,J.J. McCarthy,,,23018,J.J. McCarthy,
-11566,Jayden Daniels,40896,Jayden Daniels,4426348,Jayden Daniels,21126,Jayden Daniels,3123337,Jayden Daniels,18946,Jayden Daniels,,,22902,Jayden Daniels,
+11563,Bo Nix,40875,Bo Nix,4426338,Bo Nix,20299,Bo Nix,3121193,Bo Nix,19071,Bo Nix,2572003,Bo Nix,22910,Bo Nix,Bo Nix
+11564,Drake Maye,40881,Drake Maye,4431452,Drake Maye,21125,Drake Maye,26695757,Drake Maye,19046,Drake Maye,2572294,Drake Maye,23046,Drake Maye,Drake Maye
+11565,J.J. McCarthy,40905,J.J. McCarthy,4433970,J.J. McCarthy,21150,J.J. McCarthy,26695214,J.J. McCarthy,19048,J.J. McCarthy,2572270,J.J. McCarthy,23018,J.J. McCarthy,J.J. McCarthy
+11566,Jayden Daniels,40896,Jayden Daniels,4426348,Jayden Daniels,21126,Jayden Daniels,3123337,Jayden Daniels,18946,Jayden Daniels,2572564,Jayden Daniels,22902,Jayden Daniels,Jayden Daniels
 11567,Jordan Travis,,,,,,,,,,,,,,,
 11568,Blake Watson,,,,,,,,,,,,,,,
-11570,Rasheen Ali,,,,,,,,,,,,,,,
+11570,Rasheen Ali,,,4690013,Rasheen Ali,21167,Rasheen Ali,3168797,Rasheen Ali,,,,,25983,Rasheen Ali,Rasheen Ali
 11571,Isaiah Davis,,,,,,,,,,,,,,,
-11573,Frank Gore,,,,,,,,,,,,,,,
-11574,Dylan Laube,,,4366963,Dylan Laube,21175,Dylan Laube,,,,,,,26194,Dylan Laube,
-11575,Ray Davis,40980,Ray Davis,4429501,Ray Davis,21151,Ray Davis,3123108,Ray Davis,18949,Ray Davis,,,26191,Ray Davis,
-11576,Braelon Allen,40981,Braelon Allen,4685247,Braelon Allen,21132,Braelon Allen,26726580,Braelon Allen,18905,Braelon Allen,,,24346,Braelon Allen,
-11577,Will Shipley,,,4431545,Will Shipley,21141,Will Shipley,26699119,Will Shipley,19104,Will Shipley,,,22930,Will Shipley,
-11579,Audric Estime,41019,Audric Estime,4569682,Audric Estime,21134,Audric Estime,26713577,Audric Estime,18959,Audric Estime,,,23054,Audric Estime,
+11573,Frank Gore,,,,,,,,,,,,,,,Frank Gore
+11574,Dylan Laube,,,4366963,Dylan Laube,21175,Dylan Laube,,,,,,,26194,Dylan Laube,Dylan Laube
+11575,Ray Davis,40980,Ray Davis,4429501,Ray Davis,21151,Ray Davis,3123108,Ray Davis,18949,Ray Davis,2571862,Ray Davis,26191,Ray Davis,Ray Davis
+11576,Braelon Allen,40981,Braelon Allen,4685247,Braelon Allen,21132,Braelon Allen,26726580,Braelon Allen,18905,Braelon Allen,2572354,Braelon Allen,24346,Braelon Allen,Braelon Allen
+11577,Will Shipley,,,4431545,Will Shipley,21141,Will Shipley,26699119,Will Shipley,19104,Will Shipley,,,22930,Will Shipley,Will Shipley
+11579,Audric Estime,41019,Audric Estime,4569682,Audric Estime,21134,Audric Estime,26713577,Audric Estime,18959,Audric Estime,2571994,Audric Estimé,23054,Audric Estime,Audric Estime
 11580,Dillon Johnson,,,,,,,,,,,,,,,
-11581,MarShawn Lloyd,40971,MarShawn Lloyd,4429023,MarShawn Lloyd,21144,MarShawn Lloyd,3162514,MarShawn Lloyd,19041,MarShawn Lloyd,,,23118,MarShawn Lloyd,
-11583,Jonathon Brooks,40926,Jonathon Brooks,4678008,Jonathon Brooks,21133,Jonathon Brooks,26730706,Jonathon Brooks,18926,Jonathon Brooks,,,26148,Jonathon Brooks,
-11584,Bucky Irving,40993,Bucky Irving,4596448,Bucky Irving,21136,Bucky Irving,26693770,Bucky Irving,18997,Bucky Irving,,,25981,Bucky Irving,
-11586,Blake Corum,40962,Blake Corum,4429096,Blake Corum,20278,Blake Corum,3169252,Blake Corum,18942,Blake Corum,,,23013,Blake Corum,
+11581,MarShawn Lloyd,40971,MarShawn Lloyd,4429023,MarShawn Lloyd,21144,MarShawn Lloyd,3162514,MarShawn Lloyd,19041,MarShawn Lloyd,2572042,MarShawn Lloyd,23118,MarShawn Lloyd,MarShawn Lloyd
+11583,Jonathon Brooks,40926,Jonathon Brooks,4678008,Jonathon Brooks,21133,Jonathon Brooks,26730706,Jonathon Brooks,18926,Jonathon Brooks,2571883,Jonathon Brooks,26148,Jonathon Brooks,Jonathon Brooks
+11584,Bucky Irving,40993,Bucky Irving,4596448,Bucky Irving,21136,Bucky Irving,26693770,Bucky Irving,18997,Bucky Irving,2572546,Bucky Irving,25981,Bucky Irving,Bucky Irving
+11586,Blake Corum,40962,Blake Corum,4429096,Blake Corum,20278,Blake Corum,3169252,Blake Corum,18942,Blake Corum,2572189,Blake Corum,23013,Blake Corum,Blake Corum
 11588,Jawhar Jordan,,,,,,,,,,,,,,,
-11589,Trey Benson,40958,Trey Benson,4429275,Trey Benson,21135,Trey Benson,3176915,Trey Benson,18916,Trey Benson,,,25388,Trey Benson,
+11589,Trey Benson,40958,Trey Benson,4429275,Trey Benson,21135,Trey Benson,3176915,Trey Benson,18916,Trey Benson,2572405,Trey Benson,25388,Trey Benson,Trey Benson
 11590,Jase McClellan,,,,,,,,,,,,,,,
 11595,Jared Wiley,,,,,,,,,,,,,,,
-11596,Ben Sinnott,40931,Ben Sinnott,4690923,Ben Sinnott,21164,Ben Sinnott,3168647,Ben Sinnott,19106,Ben Sinnott,,,26310,Ben Sinnott,
-11597,Theo Johnson,,,4429148,Theo Johnson,,,3162129,Theo Johnson,,,,,23104,Theo Johnson,
+11596,Ben Sinnott,40931,Ben Sinnott,4690923,Ben Sinnott,21164,Ben Sinnott,3168647,Ben Sinnott,19106,Ben Sinnott,2572585,Ben Sinnott,26310,Ben Sinnott,Ben Sinnott
+11597,Theo Johnson,,,4429148,Theo Johnson,,,3162129,Theo Johnson,,,,,23104,Theo Johnson,Theo Johnson
 11598,Tanner McLachlan,,,,,,,,,,,,,,,
 11599,Cade Stover,,,,,,,,,,,,,,,
-11600,Ja'Tavion Sanders,40995,Ja'Tavion Sanders,4431588,Ja'Tavion Sanders,21143,Ja'Tavion Sanders,26731381,Ja'Tavion Sanders,19103,Ja'Tavion Sanders,,,24334,Ja'Tavion Sanders,
+11600,Ja'Tavion Sanders,40995,Ja'Tavion Sanders,4431588,Ja'Tavion Sanders,21143,Ja'Tavion Sanders,26731381,Ja'Tavion Sanders,19103,Ja'Tavion Sanders,2571892,Ja'Tavion Sanders,24334,Ja'Tavion Sanders,Ja'Tavion Sanders
 11603,AJ Barner,,,,,,,,,,,,,,,
-11604,Brock Bowers,40878,Brock Bowers,4432665,Brock Bowers,21123,Brock Bowers,26693971,Brock Bowers,18922,Brock Bowers,,,22955,Brock Bowers,
-11605,Jaheim Bell,,,,,21179,Jaheim Bell,,,,,,,24747,Jaheim Bell,
+11604,Brock Bowers,40878,Brock Bowers,4432665,Brock Bowers,21123,Brock Bowers,26693971,Brock Bowers,18922,Brock Bowers,2572219,Brock Bowers,22955,Brock Bowers,Brock Bowers
+11605,Jaheim Bell,,,,,21179,Jaheim Bell,,,,,,,24747,Jaheim Bell,Jaheim Bell
 11606,Dallin Holker,,,,,,,,,,,,,,,
-11610,Malik Washington,,,4569603,Malik Washington,21154,Malik Washington,,,,,,,26314,Malik Washington,
+11610,Malik Washington,,,4569603,Malik Washington,21154,Malik Washington,,,,,,,26314,Malik Washington,Malik Washington
 11615,Ainias Smith,,,,,,,,,,,,,,,
-11616,Jacob Cowing,,,4575665,Jacob Cowing,,,,,,,,,25289,Jacob Cowing,
-11617,Malachi Corley,40944,Malachi Corley,4613104,Malachi Corley,21142,Malachi Corley,,,18941,Malachi Corley,,,26023,Malachi Corley,
-11618,Jalen McMillan,,,4430834,Jalen McMillan,21153,Jalen McMillan,,,,,,,23179,Jalen McMillan,
-11619,Ja'Lynn Polk,40914,Ja'Lynn Polk,4430637,Ja'Lynn Polk,21140,Ja'Lynn Polk,3162664,Ja'Lynn Polk,19082,Ja'Lynn Polk,,,26205,Ja'Lynn Polk,
-11620,Rome Odunze,40901,Rome Odunze,4431299,Rome Odunze,20335,Rome Odunze,3162979,Rome Odunze,19074,Rome Odunze,,,25411,Rome Odunze,
-11621,Brenden Rice,41098,Brenden Rice,4686781,Brenden Rice,21147,Brenden Rice,,,,,,,26213,Brenden Rice,
-11623,Jordan Whittington,,,4569382,Jordan Whittington,,,,,,,,,23135,Jordan Whittington,
-11624,Xavier Worthy,40877,Xavier Worthy,4683062,Xavier Worthy,21128,Xavier Worthy,26730787,Xavier Worthy,19154,Xavier Worthy,,,23019,Xavier Worthy,
-11625,Adonai Mitchell,40915,Adonai Mitchell,4597500,Adonai Mitchell,21129,Adonai Mitchell,26701928,Adonai Mitchell,19061,Adonai Mitchell,,,24357,Adonai Mitchell,
-11626,Xavier Legette,40890,Xavier Legette,4430034,Xavier Legette,21137,Xavier Legette,3131575,Xavier Legette,19036,Xavier Legette,,,26136,Xavier Legette,
-11627,Troy Franklin,41009,Troy Franklin,4431280,Troy Franklin,21127,Troy Franklin,26693436,Troy Franklin,18968,Troy Franklin,,,23092,Troy Franklin,
-11628,Marvin Harrison,40893,Marvin Harrison Jr.,4432708,Marvin Harrison Jr.,21121,Marvin Harrison,26701883,Marvin Harrison Jr.,18989,Marvin Harrison Jr.,,,23064,Marvin Harrison Jr.,
-11629,Devontez Walker,,,4696882,Devontez Walker,21138,Devontez Walker,,,19136,Devontez Walker,,,26011,Devontez Walker,
-11630,Roman Wilson,40952,Roman Wilson,4431492,Roman Wilson,21148,Roman Wilson,3169495,Roman Wilson,19152,Roman Wilson,,,26160,Roman Wilson,
-11631,Brian Thomas,40883,Brian Thomas Jr.,4432773,Brian Thomas Jr.,21131,Brian Thomas,3132164,Brian Thomas Jr.,19123,Brian Thomas Jr.,,,23000,Brian Thomas Jr.,
-11632,Malik Nabers,40899,Malik Nabers,4595348,Malik Nabers,21122,Malik Nabers,26697761,Malik Nabers,19068,Malik Nabers,,,25409,Malik Nabers,
+11616,Jacob Cowing,,,4575665,Jacob Cowing,,,,,,,,,25289,Jacob Cowing,Jacob Cowing
+11617,Malachi Corley,40944,Malachi Corley,4613104,Malachi Corley,21142,Malachi Corley,,,18941,Malachi Corley,2572357,Malachi Corley,26023,Malachi Corley,Malachi Corley
+11618,Jalen McMillan,,,4430834,Jalen McMillan,21153,Jalen McMillan,,,,,,,23179,Jalen McMillan,Jalen McMillan
+11619,Ja'Lynn Polk,40914,Ja'Lynn Polk,4430637,Ja'Lynn Polk,21140,Ja'Lynn Polk,3162664,Ja'Lynn Polk,19082,Ja'Lynn Polk,2572300,Ja'Lynn Polk,26205,Ja'Lynn Polk,Ja'Lynn Polk
+11620,Rome Odunze,40901,Rome Odunze,4431299,Rome Odunze,20335,Rome Odunze,3162979,Rome Odunze,19074,Rome Odunze,2571907,Rome Odunze,25411,Rome Odunze,Rome Odunze
+11621,Brenden Rice,41098,Brenden Rice,4686781,Brenden Rice,21147,Brenden Rice,,,,,,,26213,Brenden Rice,Brenden Rice
+11623,Jordan Whittington,,,4569382,Jordan Whittington,,,,,,,,,23135,Jordan Whittington,Jordan Whittington
+11624,Xavier Worthy,40877,Xavier Worthy,4683062,Xavier Worthy,21128,Xavier Worthy,26730787,Xavier Worthy,19154,Xavier Worthy,2572186,Xavier Worthy,23019,Xavier Worthy,Xavier Worthy
+11625,Adonai Mitchell,40915,Adonai Mitchell,4597500,Adonai Mitchell,21129,Adonai Mitchell,26701928,Adonai Mitchell,19061,Adonai Mitchell,2572129,Adonai Mitchell,24357,Adonai Mitchell,Adonai Mitchell
+11626,Xavier Legette,40890,Xavier Legette,4430034,Xavier Legette,21137,Xavier Legette,3131575,Xavier Legette,19036,Xavier Legette,2571889,Xavier Legette,26136,Xavier Legette,Xavier Legette
+11627,Troy Franklin,41009,Troy Franklin,4431280,Troy Franklin,21127,Troy Franklin,26693436,Troy Franklin,18968,Troy Franklin,2571997,Troy Franklin,23092,Troy Franklin,Troy Franklin
+11628,Marvin Harrison,40893,Marvin Harrison Jr.,4432708,Marvin Harrison Jr.,21121,Marvin Harrison,26701883,Marvin Harrison Jr.,18989,Marvin Harrison Jr.,2572411,Marvin Harrison Jr.,23064,Marvin Harrison Jr.,Marvin Harrison Jr.
+11629,Devontez Walker,,,4696882,Devontez Walker,21138,Devontez Walker,,,19136,Devontez Walker,,,26011,Devontez Walker,Devontez Walker
+11630,Roman Wilson,40952,Roman Wilson,4431492,Roman Wilson,21148,Roman Wilson,3169495,Roman Wilson,19152,Roman Wilson,2572459,Roman Wilson,26160,Roman Wilson,Roman Wilson
+11631,Brian Thomas,40883,Brian Thomas Jr.,4432773,Brian Thomas Jr.,21131,Brian Thomas,3132164,Brian Thomas Jr.,19123,Brian Thomas Jr.,2572162,Brian Thomas Jr.,23000,Brian Thomas Jr.,Brian Thomas Jr.
+11632,Malik Nabers,40899,Malik Nabers,4595348,Malik Nabers,21122,Malik Nabers,26697761,Malik Nabers,19068,Malik Nabers,2572342,Malik Nabers,25409,Malik Nabers,Malik Nabers
 11633,Jamari Thrash,,,,,,,,,,,,,,,
-11635,Ladd McConkey,40908,Ladd McConkey,4612826,Ladd McConkey,21139,Ladd McConkey,3163962,Ladd McConkey,19050,Ladd McConkey,,,26122,Ladd McConkey,
+11635,Ladd McConkey,40908,Ladd McConkey,4612826,Ladd McConkey,21139,Ladd McConkey,3163962,Ladd McConkey,19050,Ladd McConkey,2572477,Ladd McConkey,26122,Ladd McConkey,Ladd McConkey
 11636,Johnny Wilson,,,,,,,,,,,,,,,
-11637,Keon Coleman,40911,Keon Coleman,4635008,Keon Coleman,21130,Keon Coleman,26717289,Keon Coleman,18938,Keon Coleman,,,26019,Keon Coleman,
-11638,Ricky Pearsall,40892,Ricky Pearsall,4428209,Ricky Pearsall,21146,Ricky Pearsall,3122949,Ricky Pearsall,19079,Ricky Pearsall,,,26214,Ricky Pearsall,
-11640,Jermaine Burton,40974,Jermaine Burton,4429033,Jermaine Burton,20309,Jermaine Burton,3163951,Jermaine Burton,18930,Jermaine Burton,,,22956,Jermaine Burton,
-11643,Jaylen Wright,41010,Jaylen Wright,4682745,Jaylen Wright,21160,Jaylen Wright,26698774,Jaylen Wright,19155,Jaylen Wright,,,25987,Jaylen Wright,
-11644,Cody Schrader,,,,,21180,Cody Schrader,28876935,Cody Schrader,,,,,26216,Cody Schrader,
-11645,Javon Baker,40982,Javon Baker,4692022,Javon Baker,21173,Javon Baker,,,,,,,22885,Javon Baker,
-11647,Kimani Vidal,41052,Kimani Vidal,4430968,Kimani Vidal,21169,Kimani Vidal,,,19135,Kimani Vidal,,,26355,Kimani Vidal,
-11650,Luke McCaffrey,40964,,4426948,Luke McCaffrey,21168,Luke McCaffrey,,,,,,,26328,Luke McCaffrey,
-11651,Isaac Guerendo,40998,Isaac Guerendo,4372561,Isaac Guerendo,21178,Isaac Guerendo,2964154,Isaac Guerendo,,,,,26392,Isaac Guerendo,
-11655,Tyrone Tracy,41048,Tyrone Tracy Jr.,4360516,Tyrone Tracy Jr.,21183,Tyrone Tracy,2963637,Tyrone Tracy Jr.,19125,Tyrone Tracy Jr.,,,22980,Tyrone Tracy Jr.,
+11637,Keon Coleman,40911,Keon Coleman,4635008,Keon Coleman,21130,Keon Coleman,26717289,Keon Coleman,18938,Keon Coleman,2571859,Keon Coleman,26019,Keon Coleman,Keon Coleman
+11638,Ricky Pearsall,40892,Ricky Pearsall,4428209,Ricky Pearsall,21146,Ricky Pearsall,3122949,Ricky Pearsall,19079,Ricky Pearsall,2572507,Ricky Pearsall,26214,Ricky Pearsall,Ricky Pearsall
+11640,Jermaine Burton,40974,Jermaine Burton,4429033,Jermaine Burton,20309,Jermaine Burton,3163951,Jermaine Burton,18930,Jermaine Burton,2571922,Jermaine Burton,22956,Jermaine Burton,Jermaine Burton
+11643,Jaylen Wright,41010,Jaylen Wright,4682745,Jaylen Wright,21160,Jaylen Wright,26698774,Jaylen Wright,19155,Jaylen Wright,2572261,Jaylen Wright,25987,Jaylen Wright,Jaylen Wright
+11644,Cody Schrader,,,,,21180,Cody Schrader,28876935,Cody Schrader,,,,,26216,Cody Schrader,Cody Schrader
+11645,Javon Baker,40982,Javon Baker,4692022,Javon Baker,21173,Javon Baker,,,,,,,22885,Javon Baker,Javon Baker
+11647,Kimani Vidal,41052,Kimani Vidal,4430968,Kimani Vidal,21169,Kimani Vidal,,,19135,Kimani Vidal,2572486,Kimani Vidal,26355,Kimani Vidal,Kimani Vidal
+11650,Luke McCaffrey,40964,,4426948,Luke McCaffrey,21168,Luke McCaffrey,,,,,2572576,Luke McCaffrey,26328,Luke McCaffrey,Luke McCaffrey
+11651,Isaac Guerendo,40998,Isaac Guerendo,4372561,Isaac Guerendo,21178,Isaac Guerendo,2964154,Isaac Guerendo,,,,,26392,Isaac Guerendo,Isaac Guerendo
+11655,Tyrone Tracy,41048,Tyrone Tracy Jr.,4360516,Tyrone Tracy Jr.,21183,Tyrone Tracy,2963637,Tyrone Tracy Jr.,19125,Tyrone Tracy Jr.,2572351,Tyrone Tracy Jr.,22980,Tyrone Tracy Jr.,Tyrone Tracy Jr.
 11716,Tip Reiman,,,,,,,,,,,,,,,
 11748,Bub Means,,,,,,,,,,,,,,,
 11762,Anthony Gould,,,,,,,,,,,,,,,
@@ -1114,9 +1114,9 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 8756,Brandon Johnson,,,,,,,,,,,,,,,
 8858,Keshunn Abram,,,,,,,,,,,,,,,
 9495,Rakim Jarrett,,,,,,,,,,,,,,,
-9511,Keaton Mitchell,40641,Keaton Mitchell,4596334,Keaton Mitchell,20344,Keaton Mitchell,3164710,Keaton Mitchell,,,,,25360,Keaton Mitchell,
-,,40819,Brandon Aubrey,3953687,Brandon Aubrey,,,,,,,,,26068,Brandon Aubrey,
-,,,,,,,,,,,,,,25983,Rasheen Ali,
+9511,Keaton Mitchell,40641,Keaton Mitchell,4596334,Keaton Mitchell,20344,Keaton Mitchell,3164710,Keaton Mitchell,,,,,25360,Keaton Mitchell,Keaton Mitchell
+11533,Brandon Aubrey,40819,Brandon Aubrey,3953687,Brandon Aubrey,,,,,,,,,26068,Brandon Aubrey,Brandon Aubrey
+,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,18225,Drew Lock,
 ,,,,4427834,Erick All Jr.,21295,Erick All,3121555,Erick All,,,,,23837,Erick All Jr.,
 ,,,,3122672,Royce Freeman,,,,,,,,,17245,Royce Freeman,
@@ -1169,7 +1169,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 ,,,,4686361,Cam Little,,,,,,,,,,,
 ,,,,4368003,Andrei Iosivas,,,,,,,,,,,
 ,,,,4362019,A.T. Perry,,,,,,,,,,,
-,,,,4427278,Xavier Gipson,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
 ,,,,4360405,Jake Bobo,,,,,,,,,,,
 ,,,,15168,Case Keenum,,,,,,,,,,,
 ,,,,4036211,DJ Turner,,,,,,,,,,,
@@ -1184,7 +1184,6 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 ,,,,4429684,Anthony Gould,,,,,,,,,,,
 ,,,,4240573,Ihmir Smith-Marsette,,,,,,,,,,,
 ,,,,4036431,Darrynton Evans,,,,,,,,,,,
-,,,,4690013,Rasheen Ali,,,,,,,,,,,
 ,,,,4383396,Hunter Luepke,,,,,,,,,,,
 ,,,,4048259,Avery Williams,,,,,,,,,,,
 ,,,,4430723,Jared Wiley,,,,,,,,,,,
@@ -1248,7 +1247,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 ,,,,,,,,2250388,Justice Hill,,,,,,,
 ,,,,,,,,2131774,Andrew Beck,,,,,,,
 ,,,,,,,,2969438,Hunter Luepke,,,,,,,
-,,,,,,,,3168797,Rasheen Ali,,,,,,,
+,,,,,,,,,,,,,,,,
 ,,,,,,,,2131912,Nick Bawden,,,,,,,
 ,,,,,,,,3162977,Kendall Milton,,,,,,,
 ,,,,,,,,1632301,Brandon Bolden,,,,,,,
@@ -1315,7 +1314,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 ,,,,,,16740,Tanner Hudson,,,,,,,,,
 ,,,,,,16114,Cedrick Wilson,,,,,,,,,
 ,,,,,,21702,Kendall Milton,,,,,,,,,
-,,,,,,20866,Xavier Gipson,,,,,,,,,
+,,,,,,,,,,,,,,,,
 ,,,,,,20319,Cornelius Johnson,,,,,,,,,
 ,,,,,,19879,Ronnie Rivers,,,,,,,,,
 ,,,,,,15357,Joshua Dobbs,,,,,,,,,
@@ -1323,7 +1322,7 @@ CHI,Chicago Bears,100003,Chicago,-16003,Bears D/ST,1842,Chicago Bears,CHI,Chicag
 ,,,,,,20307,Jase McClellan,,,,,,,,,
 ,,,,,,20814,Tyson Bagent,,,,,,,,,
 ,,,,,,18018,Colby Parkinson,,,,,,,,,
-,,,,,,21167,Rasheen Ali,,,,,,,,,
+,,,,,,,,,,,,,,,,
 ,,,,,,7090,Joe Flacco,,,,,,,,,
 ,,,,,,21152,Cade Stover,,,,,,,,,
 ,,,,,,21159,Dillon Johnson,,,,,,,,,
