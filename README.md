@@ -10,7 +10,8 @@ This is a dataset of NFL players with their IDs from various fantasy-related sit
 - FFToday
 - NFL.com
 - FantasyPros
- 
+- Footballguys
+
 I've focused on players who are most relevant for 2023-2025 fantasy football drafts (so no individual defensive players).
 
 Feel free to submit corrections or additions.
