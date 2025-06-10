@@ -164,7 +164,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 9501,Demario Douglas,40222,Demario Douglas,4427095,DeMario Douglas,20341,DeMario Douglas,3126241,Demario Douglas,18506,Demario Douglas,2570119,Demario Douglas,25304,DeMario Douglas,Demario Douglas,DougDe00,DeMario Douglas
 11565,J.J. McCarthy,40905,J.J. McCarthy,4433970,J.J. McCarthy,21150,J.J. McCarthy,26695214,J.J. McCarthy,19048,J.J. McCarthy,2572270,J.J. McCarthy,23018,J.J. McCarthy,J.J. McCarthy,McCaJJ00,J.J. McCarthy
 10232,Michael Wilson,40121,Michael Wilson,4360761,Michael Wilson,20340,Michael Wilson,2965181,Michael Wilson,18696,Michael Wilson,2570224,Michael Wilson,25333,Michael Wilson,Michael Wilson,WilsMi01,Michael Wilson
-12519,Luther Burden,,,4685278,Luther Burden III,22060,Luther Burden,28874444,Luther Burden III,19331,Luther Burden III,,,27016,Luther Burden III,,BurdLu00,Luther Burden III
+12519,Luther Burden,41824,Luther Burden III,4685278,Luther Burden III,22060,Luther Burden,28874444,Luther Burden III,19331,Luther Burden III,,,27016,Luther Burden III,,BurdLu00,Luther Burden III
 12514,Emeka Egbuka,41804,Emeka Egbuka,4567750,Emeka Egbuka,22063,Emeka Egbuka,26696165,Emeka Egbuka,19351,Emeka Egbuka,,,23062,Emeka Egbuka,,EgbuEm00,Emeka Egbuka
 10235,Roschon Johnson,40162,Roschon Johnson,4426386,Roschon Johnson,20334,Roschon Johnson,3121395,Roschon Johnson,18559,Roschon Johnson,2569615,Roschon Johnson,25322,Roschon Johnson,Roschon Johnson,JohnRo07,Roschon Johnson
 11579,Audric Estime,41019,Audric Estime,4569682,Audric Estime,21134,Audric Estime,26713577,Audric Estime,18959,Audric Estime,2571994,Audric Estimé,23054,Audric Estime,Audric Estime,EstiAu00,Audric Estime
@@ -205,7 +205,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 12462,Damien Martinez,42015,Damien Martinez,4808830,Damien Martinez,22083,Damien Martinez,,,,,,,25976,Damien Martinez,,MartDa02,Damien Martinez
 4195,Jake Elliott,30266,Jake Elliott,3050478,Jake Elliott,,,2080295,Jake Elliott,15860,Jake Elliott,2558172,Jake Elliott,16540,Jake Elliott,Jake Elliott,ElliJa98,Jake Elliott
 8117,Jalen Tolbert,34044,Jalen Tolbert,4249417,Jalen Tolbert,19453,Jalen Tolbert,2868238,Jalen Tolbert,18224,Jalen Tolbert,2567508,Jalen Tolbert,23770,Jalen Tolbert,Jalen Tolbert,TolbJa00,Jalen Tolbert
-12495,Ollie Gordon,,,4711533,Ollie Gordon II,22071,Ollie Gordon,28873887,Ollie Gordon II,,,,,25984,Ollie Gordon II,,GordOl00,Ollie Gordon II
+12495,Ollie Gordon,41969,Ollie Gordon II,4711533,Ollie Gordon II,22071,Ollie Gordon,28873887,Ollie Gordon II,,,,,25984,Ollie Gordon II,,GordOl00,Ollie Gordon II
 8167,Christian Watson,33989,Christian Watson,4248528,Christian Watson,19445,Christian Watson,2869806,Christian Watson,18237,Christian Watson,2567637,Christian Watson,23886,Christian Watson,Christian Watson,WatsCh00,Christian Watson
 5995,Justice Hill,31945,Justice Hill,4038441,Justice Hill,17020,Justice Hill,2250388,Justice Hill,16598,Justice Hill,2562407,Justice Hill,18256,Justice Hill,Justice Hill,HillJu00,Justice Hill
 4666,Younghoe Koo,30426,Younghoe Koo,3049899,Younghoe Koo,,,2820093,Younghoe Koo,14905,Younghoe Koo,2559205,Younghoe Koo,16910,Younghoe Koo,Younghoe Koo,KooxYo99,Younghoe Koo
@@ -222,10 +222,10 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 1234,Russell Wilson,25785,Russell Wilson,14881,Russell Wilson,10951,Russell Wilson,1272242,Russell Wilson,12349,Russell Wilson,2532975,Russell Wilson,11180,Russell Wilson,Russell Wilson,WilsRu00,Russell Wilson
 7608,Khalil Herbert,33605,Khalil Herbert,4035886,Khalil Herbert,18830,Khalil Herbert,2253041,Khalil Herbert,17596,Khalil Herbert,2565926,Khalil Herbert,22763,Khalil Herbert,Khalil Herbert,HerbKh00,Khalil Herbert
 2749,Raheem Mostert,28654,Raheem Mostert,2576414,Raheem Mostert,13794,Raheem Mostert,2174957,Raheem Mostert,14679,Raheem Mostert,2553728,Raheem Mostert,14338,Raheem Mostert,Raheem Mostert,MostRa00,Raheem Mostert
-11650,Luke McCaffrey,40964,,4426948,Luke McCaffrey,21168,Luke McCaffrey,,,19047,Luke McCaffrey,2572576,Luke McCaffrey,26328,Luke McCaffrey,Luke McCaffrey,McCaLu00,Luke McCaffrey
+11650,Luke McCaffrey,40964,Luke McCaffrey,4426948,Luke McCaffrey,21168,Luke McCaffrey,,,19047,Luke McCaffrey,2572576,Luke McCaffrey,26328,Luke McCaffrey,Luke McCaffrey,McCaLu00,Luke McCaffrey
 9502,Tank Dell,40097,Tank Dell,4366031,Tank Dell,20323,Tank Dell,2963970,Tank Dell,18502,Tank Dell,2569813,Tank Dell,25361,Tank Dell,Nathaniel Dell,DellNa00,Tank Dell
 4068,Mike Williams,30120,Mike Williams,3045138,Mike Williams,15903,Mike Williams,2082516,Mike Williams,16042,Mike Williams,2558846,Mike Williams,16377,Mike Williams,Mike Williams,WillMi06,Mike Williams
-12506,Harold Fannin,,,5083076,Harold Fannin Jr.,22095,Harold Fannin,28900882,Harold Fannin Jr.,19359,Harold Fannin Jr.,,,27050,Harold Fannin Jr.,,FannHa00,Harold Fannin Jr.
+12506,Harold Fannin,41877,Harold Fannin Jr.,5083076,Harold Fannin Jr.,22095,Harold Fannin,28900882,Harold Fannin Jr.,19359,Harold Fannin Jr.,,,27050,Harold Fannin Jr.,,FannHa00,Harold Fannin Jr.
 96,Aaron Rodgers,7200,Aaron Rodgers,8439,Aaron Rodgers,5712,Aaron Rodgers,419780,Aaron Rodgers,2480,Aaron Rodgers,2506363,Aaron Rodgers,9001,Aaron Rodgers,Aaron Rodgers,RodgAa00,Aaron Rodgers
 4082,Curtis Samuel,30153,Curtis Samuel,3121427,Curtis Samuel,15257,Curtis Samuel,2131252,Curtis Samuel,15994,Curtis Samuel,2558066,Curtis Samuel,16434,Curtis Samuel,Curtis Samuel,SamuCu00,Curtis Samuel
 6845,Zack Moss,32756,Zack Moss,4035676,Zack Moss,17973,Zack Moss,2240516,Zack Moss,17161,Zack Moss,2563617,Zack Moss,19263,Zack Moss,Zack Moss,MossZa00,Zack Moss
@@ -241,7 +241,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 12472,Raheim Sanders,42139,Raheim Sanders,,,,,,,,,,,24351,Raheim Sanders,,SandRa00,Raheim Sanders
 8129,Dameon Pierce,34063,Dameon Pierce,4360238,Dameon Pierce,19447,Dameon Pierce,2964236,Dameon Pierce,18182,Dameon Pierce,2567685,Dameon Pierce,22947,Dameon Pierce,Dameon Pierce,PierDa01,Dameon Pierce
 2747,Jason Myers,28378,Jason Myers,2473037,Jason Myers,,,2169640,Jason Myers,14584,Jason Myers,2553112,Jason Myers,14003,Jason Myers,Jason Myers,MyerJa44,Jason Myers
-12493,Oronde Gadsden,,,4595342,Oronde Gadsden II,22101,Oronde Gadsden,,,19367,Oronde Gadsden II,,,25997,Oronde Gadsden II,,GadsOr01,Oronde Gadsden II
+12493,Oronde Gadsden,41951,Oronde Gadsden,4595342,Oronde Gadsden II,22101,Oronde Gadsden,,,19367,Oronde Gadsden II,,,25997,Oronde Gadsden II,,GadsOr01,Oronde Gadsden II
 12471,DJ Giddens,41937,DJ Giddens,4874509,DJ Giddens,22096,DJ Giddens,26695679,DJ Giddens,19368,DJ Giddens,,,27097,DJ Giddens,,GiddDJ00,DJ Giddens
 10937,Jake Moody,40129,Jake Moody,4372066,Jake Moody,,,2968527,Jake Moody,18599,Jake Moody,2570308,Jake Moody,24009,Jake Moody,Jake Moody,MoodJa44,Jake Moody
 11596,Ben Sinnott,40931,Ben Sinnott,4690923,Ben Sinnott,21164,Ben Sinnott,3168647,Ben Sinnott,19106,Ben Sinnott,2572585,Ben Sinnott,26310,Ben Sinnott,Ben Sinnott,SinnBe00,Ben Sinnott
@@ -261,8 +261,8 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 5133,Tyler Conklin,31127,Tyler Conklin,3915486,Tyler Conklin,16379,Tyler Conklin,2165249,Tyler Conklin,16344,Tyler Conklin,2561027,Tyler Conklin,17598,Tyler Conklin,Tyler Conklin,ConkTy00,Tyler Conklin
 4149,Jamaal Williams,30247,Jamaal Williams,2980453,Jamaal Williams,2175,Jamaal Williams,2001287,Jamaal Williams,16038,Jamaal Williams,2558204,Jamaal Williams,16424,Jamaal Williams,Jamaal Williams,WillJa05,Jamaal Williams
 12543,Tahj Brooks,41983,Tahj Brooks,4429299,Tahj Brooks,22300,Tahj Brooks,,,,,,,26212,Tahj Brooks,,BrooTa00,Tahj Brooks
-12460,Antwane Wells,,,,,,,,,,,,,27218,Antwane Wells Jr.,,,
-11559,Michael Penix,,,4360423,Michael Penix Jr.,20298,Michael Penix,2963496,Michael Penix Jr.,19080,Michael Penix Jr.,,,22973,Michael Penix Jr.,Michael Penix Jr.,PeniMi00,Michael Penix Jr.
+12460,Antwane Wells,42444,Antwane Wells Jr.,,,,,,,,,,,27218,Antwane Wells Jr.,,,
+11559,Michael Penix,40889,Michael Penix Jr.,4360423,Michael Penix Jr.,20298,Michael Penix,2963496,Michael Penix Jr.,19080,Michael Penix Jr.,,,22973,Michael Penix Jr.,Michael Penix Jr.,PeniMi00,Michael Penix Jr.
 3225,Tyler Boyd,29288,Tyler Boyd,3045144,Tyler Boyd,14498,Tyler Boyd,2071582,Tyler Boyd,15519,Tyler Boyd,2555466,Tyler Boyd,15547,Tyler Boyd,Tyler Boyd,,
 7567,Kenneth Gainwell,33538,Kenneth Gainwell,4371733,Kenneth Gainwell,18772,Kenneth Gainwell,2968948,Kenneth Gainwell,17578,Kenneth Gainwell,2566397,Kenneth Gainwell,23310,Kenneth Gainwell,Kenneth Gainwell,GainKe00,Kenneth Gainwell
 5906,Dawson Knox,31928,Dawson Knox,3930086,Dawson Knox,17088,Dawson Knox,2186345,Dawson Knox,16629,Dawson Knox,2562681,Dawson Knox,18631,Dawson Knox,Dawson Knox,KnoxDa00,Dawson Knox
@@ -316,7 +316,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 1848,James White,,,,,,,,,,,,,,,,,
 5929,Anthony Johnson,,,,,,,,,,,,,,,,,
 23,Jason Witten,,,,,,,,,,,,,,,,,
-12500,Quinn Ewers,,,4889929,Quinn Ewers,22070,Quinn Ewers,26746721,Quinn Ewers,,,,,,,,EwerQu00,Quinn Ewers
+12500,Quinn Ewers,42037,Quinn Ewers,4889929,Quinn Ewers,22070,Quinn Ewers,26746721,Quinn Ewers,,,,,,,,EwerQu00,Quinn Ewers
 200,Vernon Davis,,,,,,,,,,,,,,,,,
 12486,Dillon Gabriel,41861,Dillon Gabriel,4427238,Dillon Gabriel,,,3121534,Dillon Gabriel,19366,Dillon Gabriel,,,23150,Dillon Gabriel,,GabrDi00,Dillon Gabriel
 5464,De'Lance Turner,,,,,,,,,,,,,,,,,
@@ -340,7 +340,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 4951,DJ Chark,31031,DJ Chark,3115394,DJ Chark Jr.,16130,DJ Chark,2131689,DJ Chark,16145,D.J. Chark,2561018,DJ Chark,17292,DJ Chark Jr.,D.J. Chark,,
 6011,Gardner Minshew,32010,Gardner Minshew II,4038524,Gardner Minshew,17025,Gardner Minshew,2183083,Gardner Minshew,16656,Gardner Minshew,2562796,Gardner Minshew,18562,Gardner Minshew II,Gardner Minshew,MinsGa00,Gardner Minshew II
 11410,Braxton Burmeister,,,,,,,,,,,,,,,,,
-12475,Ricky White,,,4431479,Ricky White III,22113,Ricky White,,,,,,,27186,Ricky White III,,WhitRi01,Ricky White III
+12475,Ricky White,42042,Ricky White III,4431479,Ricky White III,22113,Ricky White,,,,,,,27186,Ricky White III,,WhitRi01,Ricky White III
 12511,Will Howard,41989,Will Howard,4429955,Will Howard,22376,Will Howard,3162310,Will Howard,,,,,25972,Will Howard,,HowaWi01,Will Howard
 11574,Dylan Laube,41054,Dylan Laube,4366963,Dylan Laube,21175,Dylan Laube,,,,,,,26194,Dylan Laube,Dylan Laube,LaubDy00,Dylan Laube
 12494,Kyle McCord,41971,Kyle McCord,4433971,Kyle McCord,,,26702687,Kyle McCord,,,,,,,,McCoKy00,Kyle McCord
@@ -358,7 +358,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 12478,Nick Nash,42185,Nick Nash,,,,,,,,,,,,,,NashNi00,Nick Nash
 12491,Corey Kiner,42386,Corey Kiner,,,,,,,,,,,,,,KineCo00,Corey Kiner
 11924,Tanner Mordecai,41194,Tanner Mordecai,,,,,,,,,,,,,,,
-12523,Jimmy Horn,,,4708486,Jimmy Horn Jr.,,,,,,,,,,,,HornJi00,Jimmy Horn Jr.
+12523,Jimmy Horn,41999,Jimmy Horn Jr.,4708486,Jimmy Horn Jr.,,,,,,,,,,,,HornJi00,Jimmy Horn Jr.
 1144,Cole Beasley,,,,,,,,,,,,,,,,,
 12488,Kobe Hudson,42404,Kobe Hudson,,,,,,,,,,,,,,,
 12480,Moliki Matavao,42006,Moliki Matavao,4432731,Moliki Matavao,,,26693980,Moliki Matavao,,,,,,,,MataMo00,Moliki Matavao
@@ -375,8 +375,8 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 12545,Tyler Shough,41825,Tyler Shough,4360689,Tyler Shough,22220,Tyler Shough,2964064,Tyler Shough,19502,Tyler Shough,,,23096,Tyler Shough,,ShouTy00,Tyler Shough
 12544,LeQuint Allen,42007,LeQuint Allen,4911851,LeQuint Allen,22090,LeQuint Allen,,,19302,LeQuint Allen,,,27285,LeQuint Allen Jr.,,AlleLe01,LeQuint Allen
 4787,Jordan Westerkamp,,,,,,,,,,,,,,,,,
-12542,Efton Chism,,,,,,,,,,,,,,,,,
-12541,Dont'e Thornton,,,4432775,Dont'e Thornton Jr.,22126,Dont'e Thornton,,,19524,Dont'e Thornton Jr.,,,27288,Dont'e Thornton Jr.,,ThorDo00,Dont'e Thornton Jr.
+12542,Efton Chism,42296,Efton Chism III,,,,,,,,,,,,,,,
+12541,Dont'e Thornton,41892,Dont'e Thornton Jr.,4432775,Dont'e Thornton Jr.,22126,Dont'e Thornton,,,19524,Dont'e Thornton Jr.,,,27288,Dont'e Thornton Jr.,,ThorDo00,Dont'e Thornton Jr.
 12300,Joshua Lingenfelter,,,,,,,,,,,,,,,,,
 12540,Chimere Dike,41903,Chimere Dike,4431268,Chimere Dike,,,,,,,,,27315,Chimere Dike,,DikeCh00,Chimere Dike
 4453,Victor Bolden,,,,,,,,,,,,,,,,,
@@ -423,7 +423,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 11292,Tommy DeVito,40533,Tommy DeVito,4240391,Tommy DeVito,,,,,,,,,,,,DeviTo00,Tommy DeVito
 333,Ryan Fitzpatrick,,,,,,,,,,,,,,,,,
 574,Dez Bryant,,,,,,,,,,,,,,,,,
-6069,Stanley Morgan,,,3699902,Stanley Morgan Jr.,,,,,,,,,,,,,
+6069,Stanley Morgan,32469,Stanley Morgan Jr.,3699902,Stanley Morgan Jr.,,,,,,,,,,,,,
 5974,Trace McSorley,,,,,,,,,,,,,,,,,
 6001,Drew Sample,31884,Drew Sample,3127310,Drew Sample,,,2139646,Drew Sample,16687,Drew Sample,2562720,Drew Sample,,,Drew Sample,SampDr00,Drew Sample
 4934,Jalen Williams,,,,,,,,,,,,,,,,,
@@ -464,7 +464,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,nffc_id,nffc_name,
 5322,James Looney,,,,,,,,,,,,,,,,,
 4630,I'Tavius Mathers,,,,,,,,,,,,,,,,,
 6692,Joe Horn,,,,,,,,,,,,,,,,,
-6909,Lynn Bowden,,,4259979,Lynn Bowden Jr.,,,,,,,,,,,,,
+6909,Lynn Bowden,32750,Lynn Bowden Jr.,4259979,Lynn Bowden Jr.,,,,,,,,,,,,,
 7204,Reggie Gilliam,33357,Reggie Gilliam,4039505,Reggie Gilliam,,,3161112,Reggie Gilliam,,,2565378,Reggie Gilliam,,,Reggie Gilliam,GillRe00,Reggie Gilliam
 6126,Irv Smith,31882,Irv Smith,4040980,Irv Smith Jr.,17015,Irv Smith,2257888,Irv Smith,16704,Irv Smith,2562738,Irv Smith,18610,Irv Smith Jr.,Irv Smith Jr.,,
 11088,Monte Pottebaum,,,,,,,,,,,,,,,,,
@@ -584,7 +584,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 2430,Javorius Allen,,,,,,,,,,,,,,,,,
 2836,Kenny Cook,,,,,,,,,,,,,,,,,
 12408,Michael Hiers,,,,,,,,,,,,,,,,,
-11557,Joe Milton,,,4360698,Joe Milton III,21408,Joe Milton,2962193,Joe Milton III,19059,Joe Milton III,,,25967,Joe Milton III,,MiltJo00,Joe Milton III
+11557,Joe Milton,41060,Joe Milton III,4360698,Joe Milton III,21408,Joe Milton,2962193,Joe Milton III,19059,Joe Milton III,,,25967,Joe Milton III,,MiltJo00,Joe Milton III
 8214,Cole Turner,34105,Cole Turner,4361438,Cole Turner,19753,Cole Turner,,,,,2568354,Cole Turner,23727,Cole Turner,Cole Turner,,
 10869,Matt Landers,40458,Matt Landers,,,,,,,,,,,,,,,
 9231,Jaren Hall,40185,Jaren Hall,4373632,Jaren Hall,,,2975722,Jaren Hall,,,2570083,Jaren Hall,,,,,
@@ -768,7 +768,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 3205,Cody Kessler,,,,,,,,,,,,,,,,,
 4528,Trevor Knight,,,,,,,,,,,,,,,,,
 3423,Robbie Chosen,29785,Chosen Anderson,2574808,Robbie Chosen,14872,Chosen Anderson,,,14796,Chosen Anderson,,,15688,Chosen Anderson,,,
-8147,John Metchie,,,4567096,John Metchie III,19454,John Metchie,,,18155,John Metchie,2567682,John Metchie III,22895,John Metchie III,John Metchie,MetcJo00,John Metchie III
+8147,John Metchie,33999,John Metchie III,4567096,John Metchie III,19454,John Metchie,,,18155,John Metchie,2567682,John Metchie III,22895,John Metchie III,John Metchie,MetcJo00,John Metchie III
 4411,R.J. Shelton,,,,,,,,,,,,,,,,,
 8581,Trevon Bradford,,,,,,,,,,,,,,,,,
 4183,Nathan Peterman,30284,Nathan Peterman,2972236,Nathan Peterman,,,,,,,2558191,Nathan Peterman,,,Nathan Peterman,,
@@ -880,7 +880,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 3957,Blake Sims,,,,,,,,,,,,,,,,,
 11280,Brady Russell,40519,Brady Russell,4243176,Brady Russell,,,,,,,,,,,,,
 5323,Equanimeous St. Brown,31177,Equanimeous St. Brown,3932442,Equanimeous St. Brown,16136,Equanimeous St. Brown,,,16178,Equanimeous St. Brown,2560883,Equanimeous St. Brown,17307,Equanimeous St. Brown,Equanimeous St. Brown,,
-12398,Jadon Janke,,,,,,,,,,,,,,,,,
+12398,Jadon Janke,41697,Jadon Janke,,,,,,,,,,,,,,,
 1338,Matt Barkley,26721,Matt Barkley,15948,Matt Barkley,,,,,13022,Matt Barkley,2539308,Matt Barkley,,,Matt Barkley,,
 4741,Dan Arnold,30891,Dan Arnold,4212989,Dan Arnold,,,2835170,Dan Arnold,,,2559385,Dan Arnold,17143,Dan Arnold,Dan Arnold,,
 5889,Bryce Love,,,,,,,,,,,,,,,,,
@@ -919,7 +919,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 8699,Cyrus Holder,,,,,,,,,,,,,,,,,
 5570,Chad Beebe,,,,,,,,,,,,,,,,,
 5310,Antonio Callaway,,,,,,,,,,,,,,,,,
-12224,David White,,,,,,,,,,,,,,,,WhitDa03,David White Jr.
+12224,David White,41522,David White Jr.,,,,,,,,,,,,,,WhitDa03,David White Jr.
 2025,Albert Wilson,,,,,,,,,,,,,,,,,
 12268,Colby Suits,,,,,,,,,,,,,,,,,
 3347,Jake Rudock,,,,,,,,,,,,,,,,,
@@ -1018,7 +1018,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 7499,Paul Quessenberry,,,,,,,,,,,,,,,,,
 5733,Clayton Wilson,,,,,,,,,,,,,,,,,
 6913,Joe Reed,,,,,,,,,,,,,,,,,
-6963,Patrick Taylor,,,4039358,Patrick Taylor Jr.,,,,,17845,Patrick Taylor,2564040,Patrick Taylor,19544,Patrick Taylor Jr.,Patrick Taylor,TaylPa00,Patrick Taylor Jr.
+6963,Patrick Taylor,33235,Patrick Taylor Jr.,4039358,Patrick Taylor Jr.,,,,,17845,Patrick Taylor,2564040,Patrick Taylor,19544,Patrick Taylor Jr.,Patrick Taylor,TaylPa00,Patrick Taylor Jr.
 11906,Ty James,,,,,,,,,,,,,,,,,
 12045,Jack Westover,41352,Jack Westover,4361100,Jack Westover,,,,,,,,,,,,,
 4305,Tyler Renew,,,,,,,,,,,,,,,,,
@@ -1222,7 +1222,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 8226,Greg Bell,,,,,,,,,,,,,,,,,
 8225,Daniel Bellinger,34068,Daniel Bellinger,4361516,Daniel Bellinger,19625,Daniel Bellinger,2963615,Daniel Bellinger,18014,Daniel Bellinger,2567985,Daniel Bellinger,24238,Daniel Bellinger,Daniel Bellinger,BellDa03,Daniel Bellinger
 8224,Cole Kelley,,,,,,,,,,,,,,,,,
-8223,Velus Jones,,,4035693,Velus Jones Jr.,,,,,,,2567409,Velus Jones Jr.,24214,Velus Jones Jr.,Velus Jones,JoneVe00,Velus Jones Jr
+8223,Velus Jones,34027,Velus Jones Jr.,4035693,Velus Jones Jr.,,,,,,,2567409,Velus Jones Jr.,24214,Velus Jones Jr.,Velus Jones,JoneVe00,Velus Jones Jr
 8222,Josh Johnson,,,,,,,,,,,,,,,,,
 8220,Sincere McCormick,34551,Sincere McCormick,4430104,Sincere McCormick,20151,Sincere McCormick,3121308,Sincere McCormick,19253,Sincere McCormick,2568984,Sincere McCormick,23172,Sincere McCormick,,McCoSi00,Sincere McCormick
 8217,Leddie Brown,,,,,,,,,,,,,,,,,
@@ -1231,9 +1231,9 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 8209,Makai Polk,34403,Makai Polk,,,,,,,,,,,,,,,
 8206,Skylar Thompson,34203,Skylar Thompson,4036419,Skylar Thompson,,,,,,,,,,,,ThomSk00,Skylar Thompson
 8204,Bo Melton,34185,Bo Melton,4259305,Bo Melton,,,,,18154,Bo Melton,2568261,Bo Melton,24049,Bo Melton,,MeltBo00,Bo Melton
-8202,Michael Woods,,,4360174,Michael Woods II,,,,,18252,Michael Woods,,,,,,WoodMi00,Michael Woods II
+8202,Michael Woods,34158,Michael Woods II,4360174,Michael Woods II,,,,,18252,Michael Woods,,,,,,WoodMi00,Michael Woods II
 8201,Jack Coan,,,,,,,,,,,,,,,,,
-8200,Kevin Austin,,,4372758,Kevin Austin Jr.,,,,,,,,,,,,AustKe00,Kevin Austin Jr
+8200,Kevin Austin,34242,Kevin Austin Jr.,4372758,Kevin Austin Jr.,,,,,,,,,,,,AustKe00,Kevin Austin Jr
 8199,D'Eriq King,,,,,,,,,,,,,,,,,
 8198,Charleston Rambo,,,,,,,,,,,,,,,,,
 8197,Peyton Hendershot,34607,Peyton Hendershot,4258248,Peyton Hendershot,20104,Peyton Hendershot,2867545,Peyton Hendershot,18305,Peyton Hendershot,2568690,Peyton Hendershot,22971,Peyton Hendershot,Peyton Hendershot,,
@@ -1246,7 +1246,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 8188,Tyquan Thornton,34005,Tyquan Thornton,4362921,Tyquan Thornton,19491,Tyquan Thornton,,,18222,Tyquan Thornton,2567958,Tyquan Thornton,22913,Tyquan Thornton,Tyquan Thornton,,
 8187,CJ Verdell,,,,,,,,,,,,,,,,,
 8186,Devon Williams,,,,,,,,,,,,,,,,,
-8185,Johnny Johnson,,,,,,,,,,,,,,,,,
+8185,Johnny Johnson,34601,Johnny Johnson III,,,,,,,,,,,,,,,
 8184,D'Vonte Price,,,4244651,D'vonte Price,,,,,,,,,,,,,
 8181,Connor Heyward,34163,Connor Heyward,4241961,Connor Heyward,19733,Connor Heyward,2867599,Connor Heyward,,,2568138,Connor Heyward,,,Connor Heyward,HeywCo00,Connor Heyward
 818,Bilal Powell,,,,,,,,,,,,,,,,,
@@ -1553,7 +1553,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 6964,Sean McKeon,33101,Sean McKeon,4036275,Sean McKeon,,,,,,,2563854,Sean McKeon,,,Sean McKeon,,
 6960,Tyler Johnson,32831,Tyler Johnson,,,,,,,,,2565225,Tyler Johnson,,,Tyler Johnson,JohnTy02,Tyler Johnson
 6959,LeVante Bellamy,,,,,,,,,,,,,,,,,
-6957,James Proche,,,3916204,James Proche II,,,,,,,2563572,James Proche,,,James Proche,ProcJa00,James Proche II
+6957,James Proche,32871,James Proche II,3916204,James Proche II,,,,,,,2563572,James Proche,,,James Proche,ProcJa00,James Proche II
 6956,Devin Asiasi,,,4046522,Devin Asiasi,,,2260483,Devin Asiasi,17007,Devin Asiasi,2564586,Devin Asiasi,,,Devin Asiasi,,
 6951,Eno Benjamin,32892,Eno Benjamin,4242873,Eno Benjamin,,,,,,,2564889,Eno Benjamin,19361,Eno Benjamin,Eno Benjamin,,
 695,Ted Ginn,,,,,,,,,,,,,,,,,
@@ -2407,14 +2407,14 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 2658,Ryan Mueller,,,,,,,,,,,,,,,,,
 2651,Phillip Sims,,,,,,,,,,,,,,,,,
 2650,Ty Long,,,,,,,,,,,,,,,,,
-2639,Tony Jones,,,,,,,,,,,,,,,,,
+2639,Tony Jones,33114,Tony Jones,,,,,,,,,,,,,,,
 2636,Jarred Haggins,,,,,,,,,,,,,,,,,
 2635,Vernon Johnson,,,,,,,,,,,,,,,,,
 2632,Desmond Martin,,,,,,,,,,,,,,,,,
 2620,Jake Heaps,,,,,,,,,,,,,,,,,
 2602,Darius Jennings,,,,,,,,,,,,,,,,,
 2600,Ricky Seale,,,,,,,,,,,,,,,,,
-260,Josh Johnson,,,,,,,1325808,Josh Johnson,,,,,,,,,
+260,Josh Johnson,8937,Josh Johnson,,,,,1325808,Josh Johnson,,,,,,,,,
 2597,Michael Dyer,,,,,,,,,,,,,,,,,
 2587,Dres Anderson,,,,,,,,,,,,,,,,,
 2583,Tyrell Williams,,,,,,,,,,,,,,,,,
@@ -2449,7 +2449,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 2450,Brett Hundley,,,,,,,,,,,,,,,,,
 2422,Blake Bell,28505,Blake Bell,2514206,Blake Bell,,,1737101,Blake Bell,,,2552478,Blake Bell,,,Blake Bell,,
 2410,Jamison Crowder,28493,Jamison Crowder,2576716,Jamison Crowder,,,,,,,,,,,,CrowJa00,Jamison Crowder
-2399,Ty Montgomery,,,2577134,Ty Montgomery II,13621,Ty Montgomery,1851149,Ty Montgomery,,,2552429,Ty Montgomery,13977,Ty Montgomery,Ty Montgomery,,
+2399,Ty Montgomery,28482,Ty Montgomery II,2577134,Ty Montgomery II,13621,Ty Montgomery,1851149,Ty Montgomery,,,2552429,Ty Montgomery,13977,Ty Montgomery,Ty Montgomery,,
 2397,Jeff Heuerman,,,,,,,,,,,,,,,,,
 2382,Duke Johnson,,,,,,,,,,,,,,,,,
 2381,Chris Conley,28464,Chris Conley,,,13607,Chris Conley,,,,,2552652,Chris Conley,,,Chris Conley,,
@@ -2491,7 +2491,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 1974,Cody Parkey,,,,,,,,,,,,,,,,,
 1943,Lacoltan Bester,,,,,,,,,,,,,,,,,
 1939,Derel Walker,,,,,,,,,,,,,,,,,
-1911,Willie Snead,,,17258,Willie Snead IV,,,,,,,,,,,,,
+1911,Willie Snead,28026,Willie Snead IV,17258,Willie Snead IV,,,,,,,,,,,,,
 19,Joe Flacco,8795,Joe Flacco,11252,Joe Flacco,7090,Joe Flacco,1250697,Joe Flacco,2913,Joe Flacco,,,9300,Joe Flacco,,FlacJo00,Joe Flacco
 1855,Shaquelle Evans,,,,,,,,,,,,,,,,,
 1854,Quincy Enunwa,,,,,,,,,,,,,,,,,
@@ -2529,7 +2529,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 1387,Rex Burkhead,,,,,,,,,,,,,,,,,
 1386,Giovani Bernard,,,,,,,,,,,,,,,,,
 1333,Russell Shepard,,,,,,,,,,,,,,,,,
-13173,Jimmy Holiday,,,,,,,,,,,,,,,,,
+13173,Jimmy Holiday,42490,Jimmy Holiday,,,,,,,,,,,,,,,
 13166,Kisean Johnson,42475,Kisean Johnson,,,,,,,,,,,,,,,
 13162,Max Mang,42476,Max Mang,,,,,,,,,,,,,,,
 13161,Zakhari Franklin,42479,Zakhari Franklin,,,,,,,,,,,,,,,
@@ -2545,7 +2545,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 13143,Dymere Miller,42456,Dymere Miller,,,,,,,,,,,,,,,
 13139,Taylor Morin,42458,Taylor Morin,,,,,,,,,,,,,,,
 13136,Redd Douglas,42452,Redd Douglas,,,,,,,,,,,,,,,
-13129,Jermaine Terry,,,,,,,,,,,,,,,,,
+13129,Jermaine Terry,42446,Jermaine Terry II,,,,,,,,,,,,,,,
 13128,Rushawn Baker,42449,Rushawn Baker,,,,,,,,,,,,,,,
 13125,Micah Bernard,42441,Micah Bernard,,,,,,,,,,,,,,,
 13124,Jeremiah Webb,42437,Jeremiah Webb,,,,,,,,,,,,,,,
@@ -2591,7 +2591,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 13001,Mario Williams,42326,Mario Williams,,,,,,,,,,,,,,,
 12984,CJ Dippre,42291,CJ Dippre,,,,,,,,,,,,,,DippCj00,CJ Dippre
 12983,Brock Lampe,42293,Brock Lampe,,,,,,,,,,,,,,,
-12981,Gee Scott,,,,,,,,,,,,,,,,,
+12981,Gee Scott,42290,Gee Scott Jr.,,,,,,,,,,,,,,,
 12976,Demeer Blankumsee,42285,Demeer Blankumsee,,,,,,,,,,,,,,,
 12975,JJ Galbreath,42275,JJ Galbreath,,,,,,,,,,,,,,,
 12973,DJ Thomas-Jones,42280,DJ Thomas-Jones,,,,,,,,,,,,,,,
@@ -2599,7 +2599,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 12971,Ke'Shawn Williams,42278,Ke'Shawn Williams,,,,,,,,,,,,,,,
 12969,Lan Larison,42284,Lan Larison,,,,,,,,,,,,,,,
 12967,Jacolby George,42259,Jacolby George,,,,,,,,,,,,,,,
-12966,Moose Muhammad,,,,,,,,,,,,,,,,,
+12966,Moose Muhammad,42277,Moose Muhammad III,,,,,,,,,,,,,,,
 12965,Ethan Garbers,42249,Ethan Garbers,,,,,,,,,,,,,,,
 12963,Kay'Ron Lynch-Adams,42273,Kay'Ron Lynch-Adams,,,,,,,,,,,,,,,
 12961,Ryan Fitzgerald,42262,Ryan Fitzgerald,,,,,,,,,,,,,,FitzRy01,Ryan Fitzgerald
@@ -2610,7 +2610,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 12946,Dontae Fleming,42255,Dontae Fleming,,,,,,,,,,,,,,,
 12941,Bryson Nesbit,42266,Bryson Nesbit,,,,,,,,,,,,,,,
 12940,Tre Stewart,42271,Tre Stewart,,,,,,,,,,,,,,,
-12939,Anthony Tyus,,,,,,,,,,,,,,,,,
+12939,Anthony Tyus,42235,Anthony Tyus III,,,,,,,,,,,,,,,
 12938,Jackson Meeks,42238,Jackson Meeks,,,,,,,,,,,,,,,
 12935,Jakobie Keeney-James,42246,Jakobie Keeney-James,,,,,,,,,,,,,,,
 12933,Caden Prieskorn,42243,Caden Prieskorn,,,,,,,,,,,,,,,
@@ -2631,14 +2631,14 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 12891,Jordan Bly,42199,Jordan Bly,,,,,,,,,,,,,,,
 12889,Beaux Collins,42194,Beaux Collins,,,,,,,,,,,,,,,
 12888,Dalen Cambre,42200,Dalen Cambre,,,,,,,,,,,,,,,
-12884,Quincy Skinner,,,,,,,,,,,,,,,,,
+12884,Quincy Skinner,42187,Quincy Skinner Jr.,,,,,,,,,,,,,,,
 12883,Joshua Simon,42186,Joshua Simon,,,,,,,,,,,,,,,
 12880,Silas Bolden,42180,Silas Bolden,,,,,,,,,,,,,,,
-12868,Montrell Johnson,,,,,,,,,,,,,,,,,
+12868,Montrell Johnson,42173,Montrell Johnson Jr.,,,,,,,,,,,,,,,
 12866,Jalin Conyers,42167,Jalin Conyers,,,,,,,,,,,,,,ConyJa00,Jalin Conyers
 12865,A.J. Henning,42163,A.J. Henning,,,,,,,,,,,,,,,
 12863,Andrew Armstrong,42162,Andrew Armstrong,,,,,,,,,,,,,,ArmsAn01,Andrew Armstrong
-12860,Theo Wease,,,,,,,,,,,,,27222,Theo Wease Jr.,,,
+12860,Theo Wease,42161,Theo Wease Jr.,,,,,,,,,,,27222,Theo Wease Jr.,,,
 12859,Nate Noel,42160,Nate Noel,,,,,,,,,,,,,,,
 12852,Monaray Baldwin,42159,Monaray Baldwin,,,,,,,,,,,,,,,
 12851,Rivaldo Fairweather,42153,Rivaldo Fairweather,,,,,,,,,,,,,,,
@@ -2690,7 +2690,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 12725,Luke Lachey,42041,Luke Lachey,4432338,Luke Lachey,22127,Luke Lachey,3163014,Luke Lachey,,,,,22977,Luke Lachey,,LachLu00,Luke Lachey
 12721,Kaden Prather,42020,Kaden Prather,4431509,Kaden Prather,22066,Kaden Prather,,,,,,,,,,PratKa00,Kaden Prather
 12718,Konata Mumpfield,42035,Konata Mumpfield,4710855,Konata Mumpfield,,,,,,,,,,,,MumpKo00,Konata Mumpfield
-12715,Thomas Fidone,,,4590292,Thomas Fidone II,,,,,,,,,,,,FidoTh00,Thomas Fidone II
+12715,Thomas Fidone,42004,Thomas Fidone II,4590292,Thomas Fidone II,,,,,,,,,,,,FidoTh00,Thomas Fidone II
 12713,Andres Borregales,41980,Andres Borregales,4569923,Andres Borregales,,,26699665,Andres Borregales,19320,Andres Borregales,,,,,,BorrAn00,Andres Borregales
 12711,Tyler Loop,41988,Tyler Loop,4697745,Tyler Loop,,,3174704,Tyler Loop,19427,Tyler Loop,,,27534,Tyler Loop,,LoopTy00,Tyler Loop
 12705,Graham Mertz,41975,Graham Mertz,4426335,Graham Mertz,,,3122664,Graham Mertz,,,,,,,,,
@@ -2809,7 +2809,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 11897,Jermaine Jackson,41179,Jermaine Jackson,4698301,Jermaine Jackson,,,,,,,,,,,,JackJe00,Jermaine Jackson
 11895,Mason Tipton,41188,Mason Tipton,4573697,Mason Tipton,,,,,,,,,,,,TiptMa00,Mason Tipton
 11885,Ramel Keyton,41162,Ramel Keyton,4426399,Ramel Keyton,,,,,,,,,,,,KeytRa00,Ramel Keyton
-11867,Jaelen Gill,,,,,,,,,,,,,,,,,
+11867,Jaelen Gill,41143,Jaelen Gill,,,,,,,,,,,,,,,
 11864,Zach Heins,,,,,,,,,,,,,,,,,
 11863,Leon Johnson,,,,,,,,,,,,,,,,,
 11862,Luke Benson,,,,,,,,,,,,,,,,,
@@ -2842,11 +2842,11 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 11598,Tanner McLachlan,41066,Tanner McLachlan,4384171,Tanner McLachlan,,,2980252,Tanner McLachlan,,,,,,,,MclaTa00,Tanner McLachlan
 11595,Jared Wiley,40978,Jared Wiley,4430723,Jared Wiley,,,3123819,Jared Wiley,19146,Jared Wiley,,,,,,WileJa00,Jared Wiley
 11593,Brevyn Spann-Ford,41371,Brevyn Spann-Ford,4360967,Brevyn Spann-Ford,,,2961760,Brevyn Spann-Ford,,,,,,,,SpanBr00,Brevyn Spann-Ford
-11592,Erick All,,,4427834,Erick All Jr.,21295,Erick All,3121555,Erick All,,,,,,,,AllxEr00,Erick All Jr.
+11592,Erick All,40989,Erick All Jr.,4427834,Erick All Jr.,21295,Erick All,3121555,Erick All,,,,,,,,AllxEr00,Erick All Jr.
 11590,Jase McClellan,41075,Jase McClellan,4429001,Jase McClellan,,,3162688,Jase McClellan,,,,,,,,McClJa03,Jase McClellan
 11588,Jawhar Jordan,41064,Jawhar Jordan,4429939,Jawhar Jordan,,,,,,,,,,,,,
 11580,Dillon Johnson,,,,,,,,,,,,,,,,,
-11573,Frank Gore,,,,,,,,,,,,,,,Frank Gore,,
+11573,Frank Gore,41243,Frank Gore Jr.,,,,,,,,,,,,,Frank Gore,,
 11570,Rasheen Ali,41033,Rasheen Ali,4690013,Rasheen Ali,21167,Rasheen Ali,3168797,Rasheen Ali,,,,,25983,Rasheen Ali,Rasheen Ali,AlixRa00,Rasheen Ali
 11568,Blake Watson,41388,Blake Watson,4361604,Blake Watson,,,,,,,,,,,,,
 11567,Jordan Travis,41037,Jordan Travis,,,,,,,,,,,,,,TravJo00,Jordan Travis
@@ -2864,7 +2864,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 11524,Izaiah Gathings,40801,Izaiah Gathings,,,,,,,,,,,,,,,
 11521,Jadakis Bonds,,,,,,,,,,,,,,,,,
 11520,Lucky Jackson,40791,Lucky Jackson,3915802,Lucky Jackson,,,,,,,,,,,,,
-11511,John Stephens,,,4362489,John Stephens Jr.,,,,,,,,,,,,,
+11511,John Stephens,40782,John Stephens Jr.,4362489,John Stephens Jr.,,,,,,,,,,,,,
 11510,Hunter Luepke,40780,Hunter Luepke,4383396,Hunter Luepke,,,,,,,,,,,,LuepHu00,Hunter Luepke
 11508,Princeton Fant,40778,Princeton Fant,4242442,Princeton Fant,,,,,,,,,,,,,
 11506,Jalen Cropper,40774,Jalen Cropper,,,,,,,,,,,,,,,
@@ -2918,7 +2918,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 11197,Joel Honigford,40428,Joel Honigford,,,,,,,,,,,,,,,
 11192,Malik Flowers,,,,,,,,,,,,,,,,,
 11190,Keilahn Harris,40419,Keilahn Harris,,,,,,,,,,,,,,,
-11186,Carlos Washington,,,,,,,,,,,,,,,,,
+11186,Carlos Washington,40420,Carlos Washington Jr.,,,,,,,,,,,,,,,
 11184,Daniel Arias,,,,,,,,,,,,,,,,,
 11182,Ronald Awatt,,,,,,,,,,,,,,,,,
 11176,Khalan Laborn,,,,,,,,,,,,,,,,,
@@ -2941,14 +2941,14 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 11115,Terrell Bynum,,,4243319,Terrell Bynum,,,,,,,,,,,,,
 11114,Elijah Dotson,40358,Elijah Dotson,,,,,,,,,,,,,,,
 11105,Shaquan Davis,,,,,,,,,,,,,,,,,
-11104,SaRodorick Thompson,,,4362162,SaRodorick Thompson Jr.,,,,,,,,,,,,,
+11104,SaRodorick Thompson,40345,SaRodorick Thompson Jr.,4362162,SaRodorick Thompson Jr.,,,,,,,,,,,,,
 11102,Charles McClelland,,,,,,,,,,,,,,,,,
 11099,Kearis Jackson,40326,Kearis Jackson,4361778,Kearis Jackson,,,,,,,,,,,,,
 11092,B.T. Potter,,,,,,,,,,,,,,,,,
 11089,Jordan Byrd,,,,,,,,,,,,,,,,,
 11082,Ben Sims,40335,Ben Sims,4373030,Ben Sims,,,,,,,,,,,,SimsBe00,Ben Sims
 11081,Cephus Johnson,,,,,,,,,,,,,,,,,
-11080,Malik Knowles,,,,,,,,,,,,,,,,,
+11080,Malik Knowles,40308,Malik Knowles,,,,,,,,,,,,,,,
 11077,Jack Podlesny,40307,Jack Podlesny,4379410,Jack Podlesny,,,,,,,2571174,Jack Podlesny,,,,,
 11073,Thayer Thomas,40322,Thayer Thomas,,,,,,,,,,,,,,,
 11070,Kazmeir Allen,40311,Kazmeir Allen,,,,,,,,,,,,,,,
@@ -2981,7 +2981,7 @@ ARI,Arizona Cardinals,100022,Arizona,-16022,Cardinals D/ST,1821,Arizona Cardinal
 10213,Tre Tucker,40114,Tre Tucker,4428718,Tre Tucker,20357,Tre Tucker,3121848,Tre Tucker,18675,Tre Tucker,2570059,Tre Tucker,25337,Tre Tucker,Tre Tucker,TuckTr00,Tre Tucker
 10211,Camerun Peoples,,,,,,,,,,,,,,,,,
 10210,Cameron Latu,40101,Cameron Latu,4372026,Cameron Latu,,,2964535,Cameron Latu,18574,Cameron Latu,2570302,Cameron Latu,24331,Cameron Latu,Cameron Latu,,
-13175,Kinkead Dent,,,,,,,,,,,,,,,,,
+13175,Kinkead Dent,42493,Kinkead Dent,,,,,,,,,,,,,,,
 ,,,,,,,,,,16822,Scotty Miller,2562865,Scott Miller,,,Scott Miller,,
 ,,,,,,2958,Baltimore Ravens,,,,,,,,,,,
 ,,,,,,2977,Las Vegas Raiders,,,,,,,,,,,
