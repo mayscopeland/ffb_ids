@@ -11,6 +11,7 @@ This is a dataset of NFL players with their IDs from various fantasy-related sit
 - NFL.com
 - FantasyPros
 - Footballguys
+- Pro Football Reference
 
 I've focused on players who are most relevant for 2023-2026 fantasy football drafts.
 
